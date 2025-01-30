@@ -1,0 +1,12 @@
+{
+  "values": [
+    "whynot:cut_copper_wall",
+    "whynot:exposed_cut_copper_wall",
+    "whynot:weathered_cut_copper_wall",
+    "whynot:oxidized_cut_copper_wall",
+    "whynot:waxed_cut_copper_wall",
+    "whynot:waxed_exposed_cut_copper_wall",
+    "whynot:waxed_weathered_cut_copper_wall",
+    "whynot:waxed_oxidized_cut_copper_wall"
+  ]
+}
